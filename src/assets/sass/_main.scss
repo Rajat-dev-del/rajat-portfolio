@@ -6,7 +6,7 @@ $lightgreen :  #606c38;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
+    background-color: #fefae0;
     main{
         flex: auto;
         padding: 40px 0;
@@ -26,7 +26,7 @@ $lightgreen :  #606c38;
         font-size: 48px;
         font-weight: bold;
         line-height: 56px;
-        color: #335577;
+        color: #bc6c25;
         
 
         span{
@@ -60,7 +60,7 @@ $lightgreen :  #606c38;
                 font-size:32px ;
                 line-height:1.5 ;
                 letter-spacing:1px ;
-                color:#65626D;
+                color:#bc6c25;
             }
             p{
                 font-weight: 400;
@@ -136,7 +136,7 @@ $lightgreen :  #606c38;
 
 
 .social-section{
-    background-color: #E5E5E5;
+    background-color: #dda15e;
     padding:100px 0 ;
     text-align: center;
     p{
@@ -165,7 +165,7 @@ $lightgreen :  #606c38;
                 -moz-border-radius: 50%;
                 -ms-border-radius: 50%;
                 -o-border-radius: 50%;
-                background-color: #fff;
+                background-color: #bc6c25;
                    
                 @media only screen and (max-width:575px){
                     width: 40px;
@@ -174,7 +174,7 @@ $lightgreen :  #606c38;
             }           
             svg{
 
-                fill:#E5E5E5;
+                fill:#fff;
                 @media only screen and (max-width:575px){
                     width: 15px;
                     height: 15px;
