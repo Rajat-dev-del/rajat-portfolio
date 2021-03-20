@@ -1,3 +1,6 @@
+$darkgreen : #283618;
+$lightgreen :  #606c38;
+
 
 .wrapper{
     display: flex;
@@ -15,7 +18,7 @@
         font-weight: Bold;
         Font-size: 25px;
         Line-height: 20px;
-        color: #FF7788;
+        color: $lightgreen;
         margin-bottom: 30px;
         display: inline-block;
     }
@@ -27,7 +30,7 @@
         
 
         span{
-            color: #FF7788;
+            color: $lightgreen;
 
             @media only screen and (max-width:767px){
                display: block;
@@ -71,7 +74,7 @@
                 font-weight: Bold;
                 Font-size: 25px;
                 Line-height: 20px;
-                color: #FF7788;
+                color: $lightgreen;
                 display: inline-block;
                 text-decoration: none;
             }

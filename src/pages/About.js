@@ -1,8 +1,7 @@
-import React , {useEffect , useState } from 'react'
+import React from 'react'
 import Header from "../include/Header";
 import Footer from "../include/Footer";
-import { FaTrash , FaEdit , } from "react-icons/fa";
-import {Card,Button, Modal} from "react-bootstrap";
+
 
 export default function About() {
    

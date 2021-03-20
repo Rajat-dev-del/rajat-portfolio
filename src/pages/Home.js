@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React from "react";
 import Header from "../include/Header";
 import Footer from "../include/Footer";
 import BannerProfile from "../component/BannerProfile.js";
